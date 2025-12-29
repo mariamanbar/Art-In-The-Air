@@ -47,5 +47,5 @@
 | :--- | :--- |
 | **Index Finger** | Draw lines |
 | **Index + Middle** | Hover / Select Colors |
-| **'q'** | Quit the application |
-| **'c'** | Clear the canvas |
+| **'C'** | Quit the application |
+| **'Q'** | Clear the canvas |
