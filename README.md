@@ -49,3 +49,10 @@
 | **Index + Middle** | Hover / Select Colors |
 | **'C'** | Quit the application |
 | **'Q'** | Clear the canvas |
+
+<br>
+<div align="center">
+   
+Developed by [Mariam] © 2024
+
+</div>
